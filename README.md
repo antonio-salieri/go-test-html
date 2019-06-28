@@ -1,16 +1,14 @@
+NOTE: This package is forked from github.com/ains/go-test-html
+
 # go-test-html
-[![Build Status](https://travis-ci.org/ains/go-test-html.svg?branch=master)](https://travis-ci.org/ains/go-test-html)
-
 Converts `go test` output into a prettified HTML summary.
-
-![Example HTML output](https://cloud.githubusercontent.com/assets/2838283/18885683/8f53b7fa-84e4-11e6-9ca8-f5e3101acf98.png)
 
 ## Installation
 
 Go version 1.1 or higher is required. Install or update using the `go get`
 command:
 
-	go get -u github.com/ains/go-test-html
+	go get -u github.com/antonio-salieri/go-test-html
 
 ## Usage
 
